@@ -64,6 +64,28 @@
 
 
             #endregion
+            #region Q5
+
+            //int number1 = 10;
+            //int number2 = 20;
+            
+
+            //Console.WriteLine(number1);
+            //Console.WriteLine(number2);
+
+            //number2 = number1;
+            //Console.WriteLine($" After Assign number2 = number1  {number2}");
+
+            //number1 = 120;
+
+            //Console.WriteLine($"Number1 after modify {number1}");
+            //Console.WriteLine(number2);
+
+
+
+
+
+            #endregion
 
 
 
