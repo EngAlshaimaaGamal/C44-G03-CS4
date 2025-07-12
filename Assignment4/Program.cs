@@ -27,6 +27,33 @@
 
             #endregion
 
+            #region Q3
+
+            //3.Write C# program that Perform a simple arithmetic operation with floating-point numbers And mention what will happen
+            //float number1 = 15.555f, number2 = 20.222f, result;
+            //result = number1 + number2;
+            //Console.WriteLine(result);
+            //result = number1 - number2;
+            //Console.WriteLine(result);
+
+            //result = number1 * number2;
+            //Console.WriteLine(result);
+
+            //result = number1 / number2;
+            //Console.WriteLine(result);
+
+            //result = number1 % number2;
+            //Console.WriteLine(result);
+
+
+
+
+
+
+
+
+            #endregion
+
 
 
         }
