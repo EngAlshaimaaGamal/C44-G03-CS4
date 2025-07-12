@@ -55,6 +55,17 @@
             #endregion
 
 
+            #region Q4
+            //4.Write C# program that Extract a substring from a given string.
+            //string name = "Alshaimaa Gamal Dahy";
+            //string result = name.Substring(0, 15);
+            //Console.WriteLine(result);
+
+
+
+            #endregion
+
+
 
         }
     }
