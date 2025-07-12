@@ -127,6 +127,23 @@
 
             #endregion
 
+            #region Q7
+
+            // 7.Write C# program that take two string variables and print them as one variable 
+
+            //string name1 = "Alshaimaa";
+            //string name2 = "Gamal Dahy ";
+            //Console.WriteLine($"name is : {name1} {name2}"); // string interpolation
+            // string result =string.Format("Name {0} {1}", name1, name2); // string formate
+            // Console.WriteLine(result);
+            //Console.WriteLine(string.Format("Name {0} {1}", name1, name2)); // Composite formating
+            //Console.WriteLine(name1 + name2); // concatenation
+
+
+
+
+            #endregion
+
 
 
         }
