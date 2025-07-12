@@ -1,4 +1,7 @@
-﻿namespace Assignment4
+﻿using System.ComponentModel;
+using System.Xml.Linq;
+
+namespace Assignment4
 {
     internal class Program
     {
@@ -247,9 +250,32 @@
             // int number = Convert.ToInt32(Console.ReadLine());
             //if (number < 0)
             //    Console.WriteLine($"Negative number {number}");
-           
+
             //else
             //    Console.WriteLine($"Positive number {number}");
+
+
+            #endregion
+            #region Q14
+
+            // 14 - Write a program that takes 3 integers from the user then prints the max element and the min element.
+
+            // Console.WriteLine("Enter the number1 : ");
+            // int number1 = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("Enter the number2 : ");
+            // int number2 = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine("Enter the number3 : ");
+            // int number3 = Convert.ToInt32(Console.ReadLine());
+
+            //int max = number1;
+            //int resultMax = max > number2 ? max : number2 > number3 ? number2 : number3;
+            //Console.WriteLine($"Max element {resultMax}");
+            //int Min = number1;
+            //int resultMin = Min< number2 ? Min : number2 < number3 ? number2 : number3;
+            //Console.WriteLine($"Min Element {resultMin}");
+
 
 
             #endregion
