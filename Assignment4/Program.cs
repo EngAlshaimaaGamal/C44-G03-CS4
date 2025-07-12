@@ -15,6 +15,18 @@
 
             #endregion
 
+            #region Q2
+            //2.Write C# program that converts a string to an integer, but the string contains non-numeric characters. And mention what will happen
+
+            //string number = "route";
+            ////int x = (int)number; // explicit casting  invalid
+
+            //int.TryParse(number, out int num);
+            //Console.WriteLine(num);  
+
+
+            #endregion
+
 
 
         }
