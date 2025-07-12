@@ -359,6 +359,25 @@ namespace Assignment4
 
 
 
+            #region Q15
+            //15- Write a program that allows the user to insert an integer number then check If a number is even or odd
+
+            //Console.WriteLine("Enter the number1 : ");
+            //int number1 = Convert.ToInt32(Console.ReadLine());
+
+            //if (number1 % 2 == 0)
+            //    Console.WriteLine("Even number ");
+            //else
+            //    Console.WriteLine("odd number");
+
+
+
+            #endregion
+
+            
+
+
+
 
 
 
