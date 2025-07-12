@@ -203,6 +203,26 @@
 
             #endregion
 
+            #region Q11
+
+
+            // 11.Write a program that takes the date from the user and displays it in various formats using string interpolation.
+
+            //Console.WriteLine("Enter the Date ");
+            //int day = Convert.ToInt32(Console.ReadLine());
+            //int month = Convert.ToInt32(Console.ReadLine());
+            //int year = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine($" Today's  Date is {day} ,{month} ,{year}");
+            //Console.WriteLine($" Today's  Date is {day} /{month} /{year}");
+            //Console.WriteLine($"  Today's Date is {day} .{month} .{year}");
+
+
+
+
+
+            #endregion
+
 
 
         }
