@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel;
+using System.Reflection.Metadata;
 using System.Xml.Linq;
 
 namespace Assignment4
@@ -256,20 +257,22 @@ namespace Assignment4
 
 
             #endregion
+
             #region Q14
 
             // 14 - Write a program that takes 3 integers from the user then prints the max element and the min element.
 
-            // Console.WriteLine("Enter the number1 : ");
-            // int number1 = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter the number1 : ");
+            //int number1 = Convert.ToInt32(Console.ReadLine());
 
             //Console.WriteLine("Enter the number2 : ");
-            // int number2 = Convert.ToInt32(Console.ReadLine());
+            //int number2 = Convert.ToInt32(Console.ReadLine());
 
             //Console.WriteLine("Enter the number3 : ");
-            // int number3 = Convert.ToInt32(Console.ReadLine());
+            //int number3 = Convert.ToInt32(Console.ReadLine());
 
             //int max = number1;
+            /// use ternary operator 
             //int resultMax = max > number2 ? max : number2 > number3 ? number2 : number3;
             //Console.WriteLine($"Max element {resultMax}");
             //int Min = number1;
@@ -278,7 +281,94 @@ namespace Assignment4
 
 
 
+            ///use if statment 
+            ///
+
+            //int max = number1;
+            //int min = number1;
+
+            //    if (max > number2)
+            //    {
+            //        if (max > number3)
+
+            //            Console.WriteLine(max);
+            //        else
+            //        {
+            //            max = number3;
+            //            Console.WriteLine(max);
+            //        }
+            //    }
+            //   else
+            //    {
+            //        max = number2;
+            //        if (max > number3)
+            //            Console.WriteLine(max);
+            //        else
+            //        {
+            //            max = number3;
+            //            Console.WriteLine(max);
+
+            //        }
+
+
+            //    }
+
+            //if (min < number2)
+            //{
+            //    if (min< number3)
+
+            //        Console.WriteLine(min);
+            //    else
+            //    {
+            //        min = number3;
+            //        Console.WriteLine(min);
+            //    }
+            //}
+            //else
+            //{
+            //    min = number2;
+            //    if (min < number3)
+            //        Console.WriteLine(min);
+            //    else
+            //    {
+            //        min = number3;
+            //        Console.WriteLine(min);
+
+            //    }
+
+
+            //}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             #endregion
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
