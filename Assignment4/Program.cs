@@ -374,7 +374,22 @@ namespace Assignment4
 
             #endregion
 
-            
+
+            #region Q16
+
+            //16- Write a program that takes character from the user then if it is a vowel chars (a,e,I,o,u) then print (vowel) otherwise print (consonant)
+
+            //Console.WriteLine("Enter the char ");
+            //char character = Convert.ToChar(Console.ReadLine() ?? "No Char");
+            //if ((character == 'a' || character == 'i' || character == 'o' || character == 'e' || character == 'u') || (character == 'A' || character == 'I' || character == 'O' || character == 'E' || character == 'U')) 
+            //    Console.WriteLine("vowel character");
+            //else
+            //    Console.WriteLine("Consonant character");  
+
+
+            #endregion
+
+
 
 
 
