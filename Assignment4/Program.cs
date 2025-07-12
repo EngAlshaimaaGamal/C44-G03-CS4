@@ -143,6 +143,19 @@
 
 
             #endregion
+            #region Q8
+
+            //8.Write a program that calculates the simple interest given the principal amount, rate of interest, and time. 
+
+            //float interest;
+            //int BalanceAmount = 5000;
+            //float rate = 0.12f;
+            //int year = 5;
+            //interest = BalanceAmount * rate * year; 
+            //Console.WriteLine(interest);
+
+
+            #endregion
 
 
 
