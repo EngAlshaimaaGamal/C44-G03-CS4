@@ -68,7 +68,7 @@
 
             //int number1 = 10;
             //int number2 = 20;
-            
+
 
             //Console.WriteLine(number1);
             //Console.WriteLine(number2);
@@ -80,6 +80,46 @@
 
             //Console.WriteLine($"Number1 after modify {number1}");
             //Console.WriteLine(number2);
+
+
+
+
+
+            #endregion
+
+            #region Q6
+            //6.Write C# program that Assigning one reference type variable to another and modifying the object through one variable and mention what will happen
+
+            //Point p1 = new Point();
+            //p1.x = 5;
+            //p1.y = 15;
+
+            //Point p2 = new Point();
+            //p2.x = 88;
+            //p2.y = 30;
+
+            //Console.WriteLine(p1.x);
+            //Console.WriteLine(p1.y);
+            //Console.WriteLine(p2.x);
+            //Console.WriteLine(p2.y);
+
+            //p2 = p1;
+            //Console.WriteLine("After P2 = P1");
+            //Console.WriteLine(p1.x);
+            //Console.WriteLine(p1.y);
+            //Console.WriteLine(p2.x);
+            //Console.WriteLine(p2.y);
+
+            //p1.x = 200;
+            //p1.y = 90;
+            //Console.WriteLine("After change p1");
+            //Console.WriteLine(p1.x);
+            //Console.WriteLine(p1.y);
+            //Console.WriteLine(p2.x);
+            //Console.WriteLine(p2.y);
+
+
+
 
 
 
